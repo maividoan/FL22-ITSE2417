@@ -54,7 +54,7 @@ public class Itse2417Main
             new FinalProj(),          // Castaneda
             new FinalProj(),          // Cole
             new FinalProj(),          // Denton
-            new FinalProj(),          // Doan
+            new FinalProjDoan(),      // Doan
             new FinalProj(),          // Gutt
             new FinalProj(),          // Lopez
             new FinalProj(),          // Melendez
