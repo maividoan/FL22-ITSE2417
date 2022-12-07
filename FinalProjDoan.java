@@ -1,5 +1,5 @@
-// Dummy class for FinalProject
-// Outputs a simple message when implementing begin()
+// Doan class for FinalProject
+// Outputs a Fibonacci stream conversation when implementing begin()
 
 public class FinalProjDoan implements FinalProject {
     public FinalProjDoan() {
